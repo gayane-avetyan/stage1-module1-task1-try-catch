@@ -31,8 +31,6 @@ public class ParseIntegers {
             }
         }
 
-        //justWords.deleteCharAt(justWords.length() - 1);
-
         System.out.println("Sum is " + sum);
         System.out.println("Just words:" + justWords);
     }
